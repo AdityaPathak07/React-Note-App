@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/React-Note-App/static/js/main.8039b88f.chunk.js",
+    "main.js.map": "/React-Note-App/static/js/main.8039b88f.chunk.js.map",
+    "runtime-main.js": "/React-Note-App/static/js/runtime-main.ed0daa70.js",
+    "runtime-main.js.map": "/React-Note-App/static/js/runtime-main.ed0daa70.js.map",
+    "static/js/2.3782b2ae.chunk.js": "/React-Note-App/static/js/2.3782b2ae.chunk.js",
+    "static/js/2.3782b2ae.chunk.js.map": "/React-Note-App/static/js/2.3782b2ae.chunk.js.map",
+    "index.html": "/React-Note-App/index.html",
+    "precache-manifest.179e4fe6562c891ba14ce7416e080b66.js": "/React-Note-App/precache-manifest.179e4fe6562c891ba14ce7416e080b66.js",
+    "service-worker.js": "/React-Note-App/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed0daa70.js",
+    "static/js/2.3782b2ae.chunk.js",
+    "static/js/main.8039b88f.chunk.js"
+  ]
+}
